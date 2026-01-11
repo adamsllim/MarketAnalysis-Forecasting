@@ -1,4 +1,4 @@
-# Market Analysis & Forecasting
+# Market Analysis & Forecasting (unfinished)
 
 ## Overview...
 This project main goal is to analyze commodity markets using Python.
